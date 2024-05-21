@@ -1,0 +1,55 @@
+<!DOCTYPE html> <!-- This is a declaration of the document type that the HTML code follows. -->
+<html>
+  <head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <!-- utf-8 supports a wide range of characters from different languages and scripts-->
+    <meta charset="utf-8" /> 
+    <!--viewport: the area of the web page that is visible to the user on their device-->
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="author" content="HAMMOUDA Ahmed Mustapha">
+    <meta property="og:site_name" content="HAMMOUDA's Terminal Website'" />
+    <meta property="og:title" content="Simplified version of my introduction" />
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="" />
+    <meta property="og:image:width" content="125" />
+    <meta property="og:image:height" content="125" />
+    <meta property="og:description" content=' "Hi there! Feel free to take a look around and check out my work!" ' />
+    <meta property="og:url" content="" />
+    <meta property="og:determiner" content="the" />
+    <meta property="og:locale" content="ms_MY" />
+    <meta property="og:locale:alternate" content="en_US" />
+    <meta property="og:locale:alternate" content="zh_SG" />
+    <meta property="og:locale:alternate" content="en_GB" />
+    <meta property="og:locale:alternate" content="fr_FR" />
+    <meta property="og:locale:alternate" content="es_ES" />
+    <title>AMH | Terminal</title>
+    <link rel="stylesheet" type="text/css" media="screen" href="./style.css" />
+    <link rel="icon" type="image/x-icon" href="" />
+  </head>
+  <body>
+    <div id="terminal">
+        <p class>
+            <span class="color2">Copyright © 2024 HAMMOUDA. All rights reserved</span>
+        </p>
+      <a id="before"></a>
+    </div>
+    <div id="command" onclick="$('texter').focus();">
+      <textarea
+        type="text"
+        id="texter"
+        onkeyup="typeIt(this, event)"
+        onkeydown="typeIt(this, event); 
+                   moveIt(this.value.length, event)"
+        onkeypress="typeIt(this, event);"
+        autofocus
+      ></textarea>
+      <div id="liner">
+        <span id="typer"></span><b class="cursor" id="cursor">█</b>
+      </div>
+    </div>
+
+    <script src="js/caret.js"></script>
+    <script src="js/main.js"></script>
+    <script src="js/command.js"></script>
+  </body>
+</html>
