@@ -5,8 +5,8 @@ var blockchain = "https://hammoudamustaphaahmed.pythonanywhere.com/"
 var kryptify ="https://kryptify-web3-0-git-master-hammoudaahmedmustaphas-projects.vercel.app"
 var api="https://github.com/HAMMOUDAmustaphaahmed/RESTFUL-API"
 var email ="mailto:hammouda.ahmedmustapha@gmail.com"
-var hammouda =""
-var cv=""
+var hammouda ="https://github.com/HAMMOUDAmustaphaahmed/terminalwebsite/blob/master/Software%20Engineer%20Resume.pdf"
+var cv="https://github.com/HAMMOUDAmustaphaahmed/terminalwebsite/blob/master/Software%20Engineer%20Resume.pdf"
 
 help = [
     '+========================================================================================+',
