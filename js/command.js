@@ -5,13 +5,15 @@ var blockchain = "https://hammoudamustaphaahmed.pythonanywhere.com/"
 var kryptify ="https://kryptify-web3-0-git-master-hammoudaahmedmustaphas-projects.vercel.app"
 var api="https://github.com/HAMMOUDAmustaphaahmed/RESTFUL-API"
 var email ="mailto:hammouda.ahmedmustapha@gmail.com"
+var hammouda =""
+var cv=""
 
 help = [
     '+========================================================================================+',
     '| Commands   | Descriptions                                                              |',
     '+========================================================================================+',
     '| whois      | Who is Brandon Ban?                                                       |',
-    '| hammouda      | Discover more about me                                                    |',
+    '| hammouda      | Download my CV                                                  |',
     '| projects   | View Coding Projects                                                      |',
     '| social     | Display Social Networks                                                   |',
     '| history    | View command history                                                      |',
@@ -46,7 +48,7 @@ whois = [
 
 hammouda = [
     "<br>",
-    'For a comprehensive overview of my qualifications and expertise, I kindly direct you to my <a href="' + portfolio + '" target="_blank">portfolio website.' + "</a>",
+    'For a comprehensive overview of my qualifications and expertise, I kindly direct you to my <a href="' + cv + '" target="_blank">portfolio website.' + "</a>",
     "<br>"
 ]
 
@@ -113,3 +115,4 @@ secret = [
   '<span class=\"command\">rm -rf</span>     This will remove all files and directories of this website',
   "<br>"
 ]
+

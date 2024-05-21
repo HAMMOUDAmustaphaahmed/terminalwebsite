@@ -93,7 +93,7 @@ function commander(cmd) {
     case "whois":
       loopLines(whois, "color2 margin", 80);
       break;
-    case "bbkx":
+    case "amh":
       loopLines(bbkx, "color2 margin", 80);
       break;
     case "sudo":
@@ -111,7 +111,7 @@ function commander(cmd) {
     case "social":
       loopLines(social, "color2 margin", 80);
       break;
-    case "bmttuxd":
+    case "ahmed":
       liner.classList.add("password");
       pw = true;
       break;
