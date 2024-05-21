@@ -2,7 +2,7 @@
 <img src="./about/terminal.png">
 Welcome to my personal terminal website! This website is built with simple HTML, CSS, and JavaScript, and it is intended to introduce myself briefly.
 <br/>
-You can access the website by clicking [here](https://bbkxterminal.web.app/).
+
 
 ## Getting Started
 To access this website, simply click on the link provided above. Once you land on the page, you will see a terminal interface where you can interact with the website.
