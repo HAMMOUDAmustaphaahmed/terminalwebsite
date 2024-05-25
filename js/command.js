@@ -10,18 +10,18 @@ var cv="https://github.com/HAMMOUDAmustaphaahmed/terminalwebsite/blob/master/Sof
 
 help = [
     '+========================================================================================+',
-    '| Commands   | Descriptions                                                              |',
+    '| Commands   | Descriptions                                                               |',
     '+========================================================================================+',
-    '| whois      | Who is Brandon Ban?                                                       |',
-    '| hammouda      | Download my CV                                                  |',
-    '| projects   | View Coding Projects                                                      |',
-    '| social     | Display Social Networks                                                   |',
-    '| history    | View command history                                                      |',
+    '| whois      | Who is Hammouda?                                                           |',
+    '| hammouda   | Download my CV                                                             |',
+    '| projects   | View Coding Projects                                                       |',
+    '| social     | Display Social Networks                                                    |',
+    '| history    | View command history                                                       |',
     '| help       | Ah, yes. You\'re a command whisperer! You already know what this one does. |',
     '| email      | Please don\'t spam my email                                                |',
-    '| clear      | Clear terminal                                                        |',
-    '| LinkedIn   | Checkout my LinkedIn profile for the latest updates!                      |',
-    '| GitHub     | Discover more projects on my GitHub profile                               |',
+    '| clear      | Clear terminal                                                             |',
+    '| LinkedIn   | Checkout my LinkedIn profile for the latest updates!                       |',
+    '| GitHub     | Discover more projects on my GitHub profile                                |',
                            
     '+========================================================================================+',
 ]
