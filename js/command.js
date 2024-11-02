@@ -64,8 +64,8 @@ projects = [
 
 social = [
     "<br>",
-    '<span class=\"command\">LinkedIn</span>       <a href="' + linkedin + '" target="_blank">LinkedIn/bbkx226' + "</a>",
-    '<span class=\"command\">GitHub</span>         <a href="' + github + '" target="_blank">GitHub/bbkx226' + "</a>",
+    '<span class=\"command\">LinkedIn</span>       <a href="' + linkedin + '" target="_blank">LinkedIn/' + "</a>",
+    '<span class=\"command\">GitHub</span>         <a href="' + github + '" target="_blank">GitHub/' + "</a>",
     "<br>"
 ]
 
