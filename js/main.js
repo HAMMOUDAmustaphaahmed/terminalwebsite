@@ -94,7 +94,7 @@ function commander(cmd) {
       loopLines(whois, "color2 margin", 80);
       break;
     case "amh":
-      loopLines(bbkx, "color2 margin", 80);
+      loopLines(amh, "color2 margin", 80);
       break;
     case "sudo":
       addLine("Oh no, you're not admin...", "color2", 80);
